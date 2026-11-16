@@ -1,0 +1,12 @@
+[package]
+name = "mvp-fontc-builder"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+fontc = "2.0.1"
+skrifa = "0.50.0"
+tempfile = "3.27.0"
+tilvisan = "0.2.1"
+write-fonts = "0.56.0"
